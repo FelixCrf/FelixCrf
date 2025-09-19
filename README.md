@@ -1,16 +1,10 @@
-<br clear="both">
-
 <img align="left" height="174" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYxY3M0aTQ5MmJmdTRhZXJoN202aHZpenJjNXQxcmcwOWRjZDZvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Gabriel Felix 🔙🔚😬</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -51,11 +45,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FelixCrf/FelixCrf/output/snake.svg" alt="Snake animation" />
 
 ###
