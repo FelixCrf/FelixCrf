@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Gabriel Felix 🇧🇷🇧🇷</h1>
+<h1 align="center">Gabriel Felix 🔙🔚</h1>
 
 ###
 
