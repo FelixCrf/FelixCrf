@@ -1,13 +1,17 @@
+<br clear="both">
+
 <img align="left" height="174" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYxY3M0aTQ5MmJmdTRhZXJoN202aHZpenJjNXQxcmcwOWRjZDZvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Gabriel Felix 🔙🔚😬</h2>
 
 ###
-<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
